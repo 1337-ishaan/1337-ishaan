@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Chat App**
 
-- 🌱 On My way to learn **Tailwind, Python, Go, React-Native, Docker**
+- 🌱 On My way to learn **Blockchain, Python, Go, React-Native, Docker**
 
 - 👨‍💻 All of my projects are available at [https://ishaancodes.web.app](https://ishaancodes.web.app)
 
-- 💬 Ask me about **react, redux,bootstrap, d3js, heroku, threejs,redis, postrgresql,, typescript, bulma-scss,css, scss, semantic-ui, tailwind, firebase, mongodb, express, node**
+- 💬 Ask me about **react, redux,bootstrap, tailwind, d3js, heroku, threejs,redis, postrgresql,, typescript, bulma-scss,css, scss, semantic-ui, tailwind, firebase, mongodb, express, node**
 
 - 📫 How to reach me **1337.ishaan@gmail.com**
 
