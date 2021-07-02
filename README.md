@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1337-ishaan" alt="1337-ishaan" /></a> </p>
 
-- 🔭 I’m currently working on **Chat App**
+- 🔭 I’m currently working on **Blockchain**
 
 - 🌱 On My way to learn **Blockchain, Python, Go, React-Native, Docker**
 
